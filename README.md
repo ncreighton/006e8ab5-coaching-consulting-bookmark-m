@@ -1,2 +1,28 @@
-# 006e8ab5-coaching-consulting-bookmark-m
-switching between tabs and losing context costs you real money. This browser extension pays for itself in one use.  Under 1MB. Zero performance impact on browser speed. Works directly in Chrome, Edge, and Brave — no switching apps required.  ## What's Included  - Coaching Consulting Bookmark Manager And Knowledge Base — fully configured and ready t
+# Coaching Consulting Bookmark Manager and Knowledge Base Chrome Extension
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic functionality | Yes | Yes |
+| Community support | Yes | Yes |
+| Standard features | Yes | Yes |
+| Advanced automation | - | Yes |
+| Priority support | - | Yes |
+| Custom configurations | - | Yes |
+| Auto-updates | - | Yes |
+| Premium integrations | - | Yes |
+| Unlimited usage | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/28E9ATeTtf6QcVW9rKcZM1E)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/28E9ATeTtf6QcVW9rKcZM1E)
+
